@@ -1,0 +1,46 @@
+body{
+    background-image: url(chick.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1900px 1300px;
+}
+form{
+    border: solid 1px white;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+}
+label{
+    font-size: 25px;
+    color: white;
+    margin-left: 90px;
+}
+input{
+    width: 300px;
+    height: 35px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    border-radius: 14px;
+    margin-left: 30px;
+}
+#a{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+form{
+    margin-left: 600px;
+}

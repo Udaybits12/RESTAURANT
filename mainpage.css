@@ -1,0 +1,38 @@
+.outbox{
+    border: solid 1px;
+    height: 950px;
+    background-image: url(briyani.jpeg);
+    background-repeat: no-repeat;
+
+    background-size: 1900px 950px;
+}
+#nav{
+    border: solid 1px white;
+    height: 50px;
+    line-height: 50px;
+}
+#in{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    padding-right: 25px;
+}
+.out{
+    border: solid 1px white;
+    height: 450px;
+}
+#cafe{
+    color: red;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px white;
+}
+#menu{
+    border: solid 1px;
+    height: 200px;
+}
+#image{
+    border-radius: 50%;
+    
+}

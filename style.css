@@ -1,0 +1,33 @@
+.obox
+{
+    border: solid 1px;
+    height: 900px;
+    background-image: url(wood1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1900px 900px;
+}
+#cafe{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 160px;
+}
+#Register,#Login{
+    width: 200px;
+    color: red;
+    height: 50px;
+    font-size: 30px;
+    background-color: yellow;
+}
+#Register{
+    margin-left: 720px;
+    margin-top: 100px;
+}
+#Register a,#Login a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold
+}
+#Register:hover,#Login:hover{
+    background-color: aqua;
+}
